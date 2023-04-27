@@ -1,0 +1,23 @@
+Message-ID: 11879235.1075855723432.JavaMail.evans@thyme
+Date: Fri, 10 Mar 2023 09:32:45 -0800 (PST)
+From: john.smith@example.com
+To: mike.jones@example.com
+Subject: Urgent shipment details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: "John Smith" john.smith@example.com
+X-To: Mike Jones mike.jones@example.com
+X-Folder: \John_Smith_Mar2023\Notes Folders\All documents
+X-Origin: Smith-J
+X-FileName: jsmith.nsf
+
+Mike,
+
+The package we've been waiting for has finally arrived. We need to make sure it reaches our client on time. It contains 50kg of the "special merchandise" we discussed last week. Please pick it up from Warehouse B, located at 123 Fake Street, and deliver it to our client at 789 Hidden Lane.
+
+Remember, we can't afford any mistakes. Make sure no one is following you and do not discuss the contents of the package with anyone.
+
+Best,
+John
+
